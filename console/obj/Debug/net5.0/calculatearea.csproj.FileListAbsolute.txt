@@ -1,0 +1,15 @@
+/Users/msajid/Documents/calculatearea/console/obj/Debug/net5.0/calculatearea.csproj.AssemblyReference.cache
+/Users/msajid/Documents/calculatearea/console/obj/Debug/net5.0/calculatearea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/msajid/Documents/calculatearea/console/obj/Debug/net5.0/calculatearea.AssemblyInfoInputs.cache
+/Users/msajid/Documents/calculatearea/console/obj/Debug/net5.0/calculatearea.AssemblyInfo.cs
+/Users/msajid/Documents/calculatearea/console/obj/Debug/net5.0/calculatearea.csproj.CoreCompileInputs.cache
+/Users/msajid/Documents/calculatearea/console/bin/Debug/net5.0/calculatearea.deps.json
+/Users/msajid/Documents/calculatearea/console/bin/Debug/net5.0/calculatearea.runtimeconfig.json
+/Users/msajid/Documents/calculatearea/console/bin/Debug/net5.0/calculatearea.runtimeconfig.dev.json
+/Users/msajid/Documents/calculatearea/console/bin/Debug/net5.0/calculatearea.dll
+/Users/msajid/Documents/calculatearea/console/bin/Debug/net5.0/ref/calculatearea.dll
+/Users/msajid/Documents/calculatearea/console/bin/Debug/net5.0/calculatearea.pdb
+/Users/msajid/Documents/calculatearea/console/obj/Debug/net5.0/calculatearea.dll
+/Users/msajid/Documents/calculatearea/console/obj/Debug/net5.0/ref/calculatearea.dll
+/Users/msajid/Documents/calculatearea/console/obj/Debug/net5.0/calculatearea.pdb
+/Users/msajid/Documents/calculatearea/console/obj/Debug/net5.0/calculatearea.genruntimeconfig.cache
